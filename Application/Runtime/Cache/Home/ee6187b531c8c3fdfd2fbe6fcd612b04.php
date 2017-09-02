@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8" />
@@ -14,11 +14,11 @@
 				<!--用户名注册-->
 				<div class="register-box">
 					<!--表单项-->
-					<div class="box">
+					<form class="box" name="name" id="name">
 						<label for="userName">用&nbsp;户&nbsp;名</label>
 						<input type="text" name="userName" id="userName" placeholder="您的账户名和登录名" />
 						<i></i>
-					</div>
+					</form>
 					<!--提示信息-->
 					<div class="remind">
 						<i></i>
@@ -29,11 +29,11 @@
 				<!--设置密码-->
 				<div class="register-box">
 					<!--表单项-->
-					<div class="box">
+					<form class="box" name="pwd" id="pwd">
 						<label for="userPwd">设 置 密 码</label>
 						<input type="password" name="userPwd" id="userPwd" placeholder="建议至少使用两种字符组合" />
 						<i></i>
-					</div>
+					</form>
 					<!--提示信息-->
 					<div class="remind">
 						<i></i>
@@ -44,11 +44,11 @@
 				<!--确认密码-->
 				<div class="register-box">
 					<!--表单项-->
-					<div class="box">
+					<form class="box" name="repwd" id="repwd">
 						<label for="confirmPwd">确 认 密 码</label>
 						<input type="password" name="confirmPwd" id="confirmPwd" placeholder="请再次输入密码" />
 						<i></i>
-					</div>
+					</form>
 					<!--提示信息-->
 					<div class="remind">
 						<i></i>
@@ -88,7 +88,7 @@
 					</div>
 				</div>
 				<!--注册-->
-				<button id="btn">立即注册</button>
+				<button id="btn" type="submit" form="name,repwd" formaction="Home/Reg/register" >立即注册</button>
 			</div>			
 		</div>
 		<script src="/myTaoBao/Public/js/regExpManger.js" type="text/javascript" charset="utf-8"></script>

@@ -17,8 +17,8 @@
 	<body>
 		<div id="header" class="gradient">
 			<p class="fl">
-				<a href="#" class="join">登录</a>
-				<a href="#" class="manage">注册</a>
+				<a href="<?php echo U('Home/Login/login');?>" class="join">登录</a>
+				<a href="<?php echo U('Home/Reg/reg');?>" class="manage">注册</a>
 			</p>
 			<p class="fr">
 				<a href="#"class="join">购物车</a>
