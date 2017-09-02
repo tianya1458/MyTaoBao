@@ -1,0 +1,1290 @@
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+
+[ 2017-09-02T00:11:38+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-09-02T00:16:09+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+
+[ 2017-09-02T01:02:12+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-09-02T01:39:01+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+
+[ 2017-09-02T02:05:57+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-09-02T08:27:49+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003568s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2017-09-02T08:27:53+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001443s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+
+[ 2017-09-02T08:27:54+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-09-02T08:28:04+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-09-02T08:28:04+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-09-02T08:28:04+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-09-02T08:28:04+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-09-02T08:28:04+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2017-09-02T08:28:04+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-09-02T08:28:04+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-09-02T08:28:05+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2017-09-02T08:30:45+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+
+[ 2017-09-02T08:30:53+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+
+[ 2017-09-02T08:33:20+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-09-02T08:40:20+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+
+[ 2017-09-02T08:41:09+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-09-02T08:42:08+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+
+[ 2017-09-02T08:42:27+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-09-02T08:43:13+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-09-02T08:43:13+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-09-02T08:43:13+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+
+
+
+[ 2017-09-02T08:43:13+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-09-02T08:43:13+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2017-09-02T08:43:13+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-09-02T08:43:22+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001807s ]
+
+[ 2017-09-02T08:43:22+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-09-02T08:43:22+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+5s ]
+
+[ 2017-09-02T08:43:22+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2017-09-02T08:43:22+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-09-02T08:43:22+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-09-02T08:43:22+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2017-09-02T08:43:33+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004194s ]
+
+[ 2017-09-02T08:45:28+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-09-02T08:45:34+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-09-02T08:45:34+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+
+
+[ 2017-09-02T08:45:34+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-09-02T08:45:34+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2017-09-02T08:45:34+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003939s ]
+
+[ 2017-09-02T08:45:34+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-09-02T08:45:34+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001433s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2017-09-02T08:45:39+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-09-02T08:45:41+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-09-02T08:45:44+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-09-02T08:45:45+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+
+[ 2017-09-02T08:53:07+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-09-02T08:53:07+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001705s[ 2017-09-02T08:53:07+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+
+
+
+[ 2017-09-02T08:53:07+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+
+[ 2017-09-02T08:53:07+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-09-02T08:53:07+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+
+[ 2017-09-02T08:53:26+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-09-02T08:53:26+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+
+ ]
+
+[ 2017-09-02T08:53:26+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+
+[ 2017-09-02T08:53:26+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+7s ]
+
+[ 2017-09-02T08:53:26+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-09-02T08:53:26+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+
+[ 2017-09-02T08:53:27+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-09-02T08:53:27+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+
+[ 2017-09-02T08:53:27+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-09-02T08:53:27+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-09-02T08:53:27+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-09-02T08:53:27+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008988s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+
+[ 2017-09-02T08:53:28+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-09-02T08:53:34+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-09-02T08:57:24+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001345s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-09-02T09:01:29+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/more.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+
+[ 2017-09-02T09:01:30+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-09-02T09:01:42+08:00 ] ::1 /myTaoBao/Public/img/search_img.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2017-09-02T09:01:42+08:00 ] ::1 /myTaoBao/Public/img/video_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+
+[ 2017-09-02T09:01:42+08:00 ] ::1 /myTaoBao/Public/img/hot_list_li_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+
+[ 2017-09-02T09:01:42+08:00 ] ::1 /myTaoBao/Public/img/header_link_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002845s ]
+
+[ 2017-09-02T09:01:42+08:00 ] ::1 /myTaoBao/Public/img/new_title_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+
+[ 2017-09-02T09:01:42+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-09-02T09:01:42+08:00 ] ::1 /myTaoBao/Public/img/content/recommend_list_ico2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+
+[ 2017-09-02T09:36:56+08:00 ] ::1 /MyTaoBao/index.php/Hmoe/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Hmoe
+

@@ -5,17 +5,13 @@ $(function(){
 	(function(){
 	    var num=0;
 	   	var arrText = [
-			'例如：荷棠鱼坊烧鱼 或 樱花日本料理',
-			'例如：昌平区育新站龙旗广场2号楼609室',
-			'例如：万达影院双人情侣券',
-			'例如：东莞出事了，大老虎是谁？',
-			'例如：北京初春降雪，天气变幻莫测'
+			'超市的薯片半价啦！'
 		];
 		$('.menu li').on('click',function(){
 			num=$(this).index()
 			$('.menu li').removeClass('active');
-			$('.menu li').eq(num).addClass('active')
-			$('#search .inp').val(arrText[num])
+			$('.menu li').eq(num).addClass('active');
+			$('#search .inp').val(arrText[num]);
 		})
 		$('#search .inp').focus(function(){
 			console.log(1);
@@ -75,38 +71,7 @@ $(function(){
 		})
 	
 	})();
-	/*红人烧客*/
-	(function(){
-		var arr = [
-			'',
-			'用户1<br />人气1',
-			'用户名：性感宝贝<br />区域：朝阳CBD<br />人气：124987',
-			'用户3<br />人气3',
-			'用户4<br />人气4',
-			'用户5<br />人气5',
-			'用户6<br />人气6',
-			'用户7<br />人气7',
-			'用户8<br />人气8',
-			'用户9<br />人气9',
-			'用户10<br />人气10'
-		];
-		$('.popular li').mouseover(function(){
-			if($(this).index()!=0){
-				var Left=$(this).position().left+'px';
-				var Top=$(this).position().top+'px';
-				var Width=$(this).width()-20+'px';
-				var Height=$(this).height()-20+'px';
-				
-				$('.popular .floatP').css('left',Left)
-				$('.popular .floatP').css('top',Top)
-				$('.popular .floatP').css('width',Width)
-				$('.popular .floatP').css('height',Height)
-				$('.popular .floatP').html(arr[$(this).index()])
-			}
-		})
-	
-	
-	})();
+ 
 	/*精彩推荐*/
 	(function(){
 		var arr = [ '爸爸去哪儿啦~', '人像摄影中的光影感', '娇柔妩媚、美艳大方' ];
@@ -148,25 +113,7 @@ $(function(){
 			}
 		}
 		
-		
-		
-	
 	})();
-	
-	
-	
-	
-	
-	/*bbs论坛*/
-	(function(){
-		$('.bbs ul li').hover(function(){
-			$('.bbs ul li').removeClass('active');
-			$(this).addClass('active');
-		},function(){
-			
-		})
-	})();
-	
 	
 	/*选项卡*/
 	
