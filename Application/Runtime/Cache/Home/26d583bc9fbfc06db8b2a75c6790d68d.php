@@ -4,7 +4,8 @@
 		<meta charset="utf-8" />
 		<title>注册页</title>
 		<link rel="stylesheet" type="text/css" href="/myTaoBao/Public/css/index.css" charset="utf-8"/>
-    </head>
+	</head>
+	
         <body>
 		<!--版心-->
 		<div class="container">

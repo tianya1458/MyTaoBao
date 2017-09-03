@@ -3,8 +3,8 @@ namespace Home\Controller;
 use Think\Controller;
 
 
-class LoginController extends Controller {
-    public function login(){
+class CartController extends Controller {
+    public function cart(){
         $this->display();
 
      

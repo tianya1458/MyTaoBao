@@ -2,11 +2,11 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>100度</title>
+		<title>myTaoBao</title>
 		<link href="/myTaoBao/Public/css/100.css"  type="text/css" rel="stylesheet" />
 		<link href="/myTaoBao/Public/img/index.img/100du.ico" rel="shortcut icon" />
 		<script src="/myTaoBao/Public/js/jquery-1.11.1.js"></script>
-		<script src="/myTaoBao/Public/js/100.js"></script>
+		<script src="/myTaoBao/Public/js/index.js"></script>
 		<!--[if IE 6]>
 		<script src="js/DD_belatedPNG_0.0.8a.js"></script>
 		<script>
@@ -21,8 +21,8 @@
 				<a href="#" class="manage">注册</a>
 			</p>
 			<p class="fr">
-				<a href="#"class="join">购物车</a>
-				<a href="#" class="manage">我的MyTaoBao</a>
+				<a href="#"class="join">我的购物车</a>
+				<a href="#" class="manage">我的订单</a>
 			</p>
 		</div>
 		
@@ -151,7 +151,7 @@
 				<div class="ad radiu"><img src="/myTaoBao/Public/img/index.img/ad/ad1.jpg"/></div>
 
 		<div id="fr">
-			<p><a href="#">关于我们</a>|<a href="#">联系我们</a>|<a href="">加入我们</a>|<a href="">版权申明</a>|<a href="">问题反馈</a>|<a href="#">友情链接</a>|<a href="">网站地图</a>|<a href="">视频索引</a></p>
+			<p><a href="#">关于我们</a>&nbsp;&nbsp;<a href="#">联系我们</a>&nbsp;&nbsp;<a href="">加入我们</a>&nbsp;&nbsp;<a href="">版权申明</a>&nbsp;&nbsp;<a href="">问题反馈</a>&nbsp;&nbsp;<a href="#">友情链接</a>&nbsp;&nbsp;<a href="">网站地图</a>&nbsp;&nbsp;<a href="">视频索引</a></p>
 		   
 			
 			

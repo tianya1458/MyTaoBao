@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>支付界面</title>
+    <style>
+        #header {
+                    background-color: red;
+                    color: white;
+                    text-align:center;
+                    padding:5px;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>我的支付</h1>
+    </div>
+ 
+    <div style="text-align:left">
+        <table  border="0" cellpadding="3" cellspacing="0" style="width:21%;margin:auto">
+        <tr>
+        <td>商品名称: </td>
+        </tr>
+        <tr>
+        <td>商品编号:</td>
+        </tr>
+        <tr>
+        <td>所需支付:</td>
+        </tr>
+        <tr>
+        <td>收货人手机:&nbsp;&nbsp;&nbsp;<input type="text" name="phone">
+        </td>
+        </tr>
+        <tr>
+        <td>收货人地址:&nbsp;&nbsp;&nbsp;<input type="text" name="address">
+        </td>
+        </tr>
+        <tr>
+        <td>请选择支付方式:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <select name="cars">
+                        <option value="货到付款">货到付款</option>
+                        <option value="在线支付" selected>在线支付</option>
+                        <option value="信用卡支付">信用卡支付</option>
+                        <option value="网银支付">网银支付</option>
+                </select>
+        </td>
+        </tr>
+        </table>
+    </div>
+    <div style="text-align: center">
+        <button>确认支付</button>
+        <button>取消支付</button>
+    </div>
+</body>
+</html>
