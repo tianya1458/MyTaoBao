@@ -10,7 +10,7 @@ class LoginController extends Controller {
      
     }
 
-    public function login2(){
+    public function login2(){               //登录
     	echo I('get.userName',0)."  ";
 
     	echo I('get.userPwd',0);
@@ -26,11 +26,14 @@ class LoginController extends Controller {
 		$a = $User->where($data)->select();
 
 		if ($a == null){
-			echo '登陆失败';
-            $this->error('登录失败','/Login/login',5);
+			
+            $this->error('登录失败',U('Home/Login/login'),5);
 		}
 		else {
-            $this->success('登陆成功','Index/index',3);
+            //置登录状态为1
+            $data['state'] = 1;
+            $User-> where("user_name='%s' ",$name)->field('state')->filter('strip_tags')->save($data);      
+            $this->success('登陆成功',U('Home/Index/index'),3);
         }
 
 	}

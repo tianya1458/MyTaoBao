@@ -252,7 +252,7 @@ btn.onclick = function(){
 		agreeBox.className = "agreeBox";
 		remind.className = "remind hide";
 		if(checkUserName()&&checkPwd()&&checkConfirmPwd()&&checkCode()){
-			location.href="http://localhost/MyTaobao/index.php/Home/Reg/register";
+			location.href=U('Home/Login/login2');
 		}
 	}else{
 		agreeBox.className = "agreeBox error";
