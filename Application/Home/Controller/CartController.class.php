@@ -5,8 +5,8 @@ use Think\Controller;
 
 class CartController extends Controller {
     public function cart(){
-        $this->display(self::cart_read());
-
+        $this->display(self::cart_read(),self::cart_submit());
+        //$this->display(self::cart_submit());
      
     }
 
@@ -76,9 +76,60 @@ class CartController extends Controller {
 
      	$userDao = M("tb_user");
 
-     	$userId = $userDao -> where('user_id = %d',$userId) -> getField('user_name');
+     	$userId = $userDao -> where("user_name = '%s' ",$user_name) -> getField('user_id');     ///////////
 
      	$cartDao = M("tb_cart");
      	$cartDao -> where("user_id=%d and product_name='%s' and cart_number= $d",$userId,$goodName,$goodNumber)->delete();
+    }
+
+    public function cart_clear(){                           //清空某用户购物车
+        $user_name = I('get.user_name');    //购物车用户
+        
+        $userDao = M("tb_user");
+
+        $userId = $userDao -> where("user_name = '%s' ",$user_name) -> getField('user_id');
+
+        $cartDao = M("tb_cart");
+        $cartDao -> where("user_id=%d",$userId)->delete();
+    }
+
+    public function cart_updata(){                          //购物车某商品数量更新，传入数量更新
+        $user_name = I('get.user_name');    //购物车用户
+        $goodName = I('get.product_name');  //获取购物车商品名
+        $goodNumber = I('get.goodNumber');                  //获取更改后购物车商品数量
+
+        $userDao = M("tb_user");
+
+       $userId = $userDao -> where("user_name = '%s' ",$user_name) -> getField('user_id');
+
+        $cartDao = M("tb_cart");
+
+        $data['cart_number'] = $goodNumber;
+        $cartDao -> where("user_id=%d and product_name='%s'",$userId,$goodName)->save($data);
+    }
+
+    public function cart_submit(){                          //购物车订单提交
+        $user_name = I('get.user_name');    //购物车用户
+        
+        $userDao = M("tb_user");
+
+        $userId = $userDao -> where("user_name = '%s' ",$user_name) -> getField('user_id');
+
+        $cartDao = M("tb_cart");
+        $cart = $cartDao -> where("user_id=%d",$userId)->select();
+
+        if ($cart == null)
+        {
+            $this->error('您的购物车是空的，结算失败。。。',U('Home/Cart/cart'),3);       //购物车为空时跳转
+        }
+        else {
+            $sumList = $cartDao -> where("user_id=%d",$userId)->getField('cart_sum');     //获取商品金额数组
+            foreach ($sumList as $value){
+                $sum = $sum + $value;
+                $this->assign('sum',$sum);
+            }                                                                             //计算总金额，用模板输出sum
+            $cartDao -> where("user_id=%d",$userId)->delete();                            //结算后清空购物车
+            $this->success('正在跳转至支付页面。。。',U('Home/Index/index'),3);           ////////////成功跳转
+        }
     }
 }

@@ -19,6 +19,8 @@ class GoodController extends Controller {
      	$goodName = $goodDao->where('product_id=%d',$goodId)->getField('product_name');	//获取该商品名
      	$goodPrice = $goodDao->where('product_id=%d',$goodId)->getField('product_price'); //获取商品价格
 
+          $sum = $goodNumber*$goodPrice;      //计算总金额
+
      	$userDao = M('tb_user');		//链接user表
 
      	$userId = $userDao->where('user_name=%d',$User)->getField('user_id');		//登录的用户ID
@@ -30,6 +32,7 @@ class GoodController extends Controller {
      	$data['product_name'] = $goodName;
      	$data['product_price'] = $goodPrice;
      	$data['cart_number'] = $goodNumber;
+          $data['cart_sum'] = $sum;
 
      	$condition['user_id'] = $userId;
      	$condition['product_id'] = $goodId;		//验证购物车记录是否存在
@@ -40,8 +43,11 @@ class GoodController extends Controller {
      	}
      	else {
      		$number = $cartDao->where('user_id=%d and product_id=%d',$userId,$goodId)->getField('cart_number');
+
      		$N = $number + $goodNumber;
+               $S = $N*$goodPrice;
      		$data['cart_number'] = $N;			//已存在记录时数量累加
+               $data['cart_sum'] = $S;
 
      		$cartDao -> add($data);
      	}
