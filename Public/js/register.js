@@ -252,7 +252,7 @@ btn.onclick = function(){
 		agreeBox.className = "agreeBox";
 		remind.className = "remind hide";
 		if(checkUserName()&&checkPwd()&&checkConfirmPwd()&&checkCode()){
-			location.href=U('Home/Login/login2');
+			location.href="{:U('Home/Reg/register')}";
 		}
 	}else{
 		agreeBox.className = "agreeBox error";

@@ -51,6 +51,28 @@ class GoodController extends Controller {
 
      		$cartDao -> add($data);
      	}
-      }
+     }
     
+     public function goodIdGet(){         //get用户ID
+         $gId = I('get.goodId');
+
+         dump($gId);
+
+         return $gId;
+
+     }
+
+     public function good_read(){        //返回商品详情数组
+
+        $goodId = self::goodIdGet();
+        dump($goodId);
+
+        $goodDao = M('product','tb_');
+
+        $goodlist = $goodDao->where("product_id=%d",$goodId)
+        ->select();
+
+        dump($goodlist);
+        $this->assign('good',$goodlist);
+     }
 }

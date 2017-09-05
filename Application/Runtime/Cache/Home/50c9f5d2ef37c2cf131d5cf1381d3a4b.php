@@ -29,7 +29,7 @@
                <i></i>
              </form>
           </div>
-          <button type="submit" form="name,pwd" formaction="Home/Login/login2" href="<?php echo U('Home/Index/index');?>">登 录</button>
+          <button type="submit" form="name,pwd" formaction="Home/Login/login2" href=U('Home/Index/index')>登 录</button>
         </div>
     </div>
   
